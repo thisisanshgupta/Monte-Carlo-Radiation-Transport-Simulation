@@ -1,4 +1,5 @@
 # Monte Carlo Radiation Transportation 
+![](ct_scan_graph.png)
 
 ## Overview
 
